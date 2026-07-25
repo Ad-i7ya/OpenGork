@@ -5,14 +5,14 @@
 <br>
 <br>
 
-<a href="https://github.com/erenjugs/OpenGork/stargazers">
-  <img src="https://img.shields.io/github/stars/erenjugs/OpenGork?style=for-the-badge&logo=starship&logoColor=white&labelColor=000000&color=purple" alt="Stars">
+<a href="https://github.com/Ad-i7ya/OpenGork/stargazers">
+  <img src="https://img.shields.io/github/stars/Ad-i7ya/OpenGork?style=for-the-badge&logo=starship&logoColor=white&labelColor=000000&color=purple" alt="Stars">
 </a>
-<a href="https://github.com/erenjugs/OpenGork/network/members">
-  <img src="https://img.shields.io/github/forks/erenjugs/OpenGork?style=for-the-badge&logo=git&logoColor=white&labelColor=000000&color=blue" alt="Forks">
+<a href="https://github.com/Ad-i7ya/OpenGork/network/members">
+  <img src="https://img.shields.io/github/forks/Ad-i7ya/OpenGork?style=for-the-badge&logo=git&logoColor=white&labelColor=000000&color=blue" alt="Forks">
 </a>
-<a href="https://github.com/erenjugs/OpenGork/issues">
-  <img src="https://img.shields.io/github/issues/erenjugs/OpenGork?style=for-the-badge&logo=codeigniter&logoColor=white&labelColor=000000&color=red" alt="Issues">
+<a href="https://github.com/Ad-i7ya/OpenGork/issues">
+  <img src="https://img.shields.io/github/issues/Ad-i7ya/OpenGork?style=for-the-badge&logo=codeigniter&logoColor=white&labelColor=000000&color=red" alt="Issues">
 </a>
 <a href="LICENSE">
   <img src="https://img.shields.io/badge/LICENSE-MIT-green?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=000000" alt="License">
@@ -152,7 +152,7 @@ ollama pull wizardlm-uncensored:13b
 ### Step 3: Configure OpenGork for Local
 
 ```bash
-git clone https://github.com/erenjugs/OpenGork.git
+git clone https://github.com/Ad-i7ya/OpenGork.git
 cd OpenGork
 
 # Set to use local Ollama
@@ -210,7 +210,7 @@ OPTION 2: xAI API (PARTIAL CENSORSHIP)
 ### Step 2: Configure OpenGork
 
 ```bash
-git clone https://github.com/erenjugs/OpenGork.git
+git clone https://github.com/Ad-i7ya/OpenGork.git
 cd OpenGork
 
 # Set API key
@@ -520,16 +520,5 @@ REQUIREMENTS
 <br>
 
 <sub>True freedom requires local execution.</sub>
-
-</div>
-
-----Pushed updates
-</div>
-
-"Gork uncensored made compatible for Openclaw"
-
-</div>
-
-"Mathematics is the language with which God has written the universe.
 
 </div>
