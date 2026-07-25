@@ -34,16 +34,16 @@
     "openclaw",
     "heretic"
   ],
-  "author": "erenjugs",
+  "author": "Ad-i7ya",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/erenjugs/OpenGork.git"
+    "url": "git+https://github.com/Ad-i7ya/OpenGork.git"
   },
   "bugs": {
-    "url": "https://github.com/erenjugs/OpenGork/issues"
+    "url": "https://github.com/Ad-i7ya/OpenGork/issues"
   },
-  "homepage": "https://github.com/erenjugs/OpenGork#readme",
+  "homepage": "https://github.com/Ad-i7ya/OpenGork#readme",
   "dependencies": {
     "dotenv": "^16.4.5"
   },
